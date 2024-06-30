@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CAhAeu/CZB99N+fDKj734/9wvD6YCFVwzc9T2R+KxZbk0jOa5H2nkCSB1Lw9Jgg16or37xuQvsnxKlsTj9Qbyw==",
+  "dgSpecHash": "Y+5ilsTTXNNTq3t1IbdFyMr/XT56tfvZ5Mw9J6008v91CpNIAAP/2t3DNn4EuZ2ETD0rpEMpmFgtcMWuQl1o9w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Laiza\\OneDrive\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_-Torralba_Laiza_P_BSIT32E1-\\PREFINALS_AUTH_TORRALBA_LAIZA-P\\ProtectedApi\\ProtectedApi.csproj",
   "expectedPackageFiles": [
@@ -8,7 +8,7 @@
     "C:\\Users\\Laiza\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.3\\microsoft.aspnetcore.openapi.8.0.3.nupkg.sha512",
     "C:\\Users\\Laiza\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Laiza\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.6.2\\microsoft.identitymodel.abstractions.7.6.2.nupkg.sha512",
-    "C:\\Users\\Laiza\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.1.2\\microsoft.identitymodel.jsonwebtokens.7.1.2.nupkg.sha512",
+    "C:\\Users\\Laiza\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.6.2\\microsoft.identitymodel.jsonwebtokens.7.6.2.nupkg.sha512",
     "C:\\Users\\Laiza\\.nuget\\packages\\microsoft.identitymodel.logging\\7.6.2\\microsoft.identitymodel.logging.7.6.2.nupkg.sha512",
     "C:\\Users\\Laiza\\.nuget\\packages\\microsoft.identitymodel.protocols\\7.1.2\\microsoft.identitymodel.protocols.7.1.2.nupkg.sha512",
     "C:\\Users\\Laiza\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\7.1.2\\microsoft.identitymodel.protocols.openidconnect.7.1.2.nupkg.sha512",
@@ -18,7 +18,7 @@
     "C:\\Users\\Laiza\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\Laiza\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
     "C:\\Users\\Laiza\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
-    "C:\\Users\\Laiza\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.1.2\\system.identitymodel.tokens.jwt.7.1.2.nupkg.sha512"
+    "C:\\Users\\Laiza\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.6.2\\system.identitymodel.tokens.jwt.7.6.2.nupkg.sha512"
   ],
   "logs": []
 }
