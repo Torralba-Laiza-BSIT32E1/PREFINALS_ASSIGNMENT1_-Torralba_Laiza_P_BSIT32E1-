@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PREFINALS_AUTH_TORRALBA_LAIZA-P")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6d1dfd3f5665b052f4485620b665be407699c0d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13df47f0f903199ed58e92ec1ae3eaf178f2679b")]
 [assembly: System.Reflection.AssemblyProductAttribute("PREFINALS_AUTH_TORRALBA_LAIZA-P")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PREFINALS_AUTH_TORRALBA_LAIZA-P")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
