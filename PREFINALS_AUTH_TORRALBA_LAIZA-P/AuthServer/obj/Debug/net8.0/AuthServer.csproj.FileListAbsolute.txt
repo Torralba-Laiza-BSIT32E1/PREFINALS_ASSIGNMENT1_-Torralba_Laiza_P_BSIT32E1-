@@ -1,0 +1,10 @@
+C:\Users\Laiza\OneDrive\Documents\GitHub\PREFINALS_ASSIGNMENT1_-Torralba_Laiza_P_BSIT32E1-\PREFINALS_AUTH_TORRALBA_LAIZA-P\AuthServer\obj\Debug\net8.0\AuthServer.csproj.AssemblyReference.cache
+C:\Users\Laiza\OneDrive\Documents\GitHub\PREFINALS_ASSIGNMENT1_-Torralba_Laiza_P_BSIT32E1-\PREFINALS_AUTH_TORRALBA_LAIZA-P\AuthServer\obj\Debug\net8.0\AuthServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laiza\OneDrive\Documents\GitHub\PREFINALS_ASSIGNMENT1_-Torralba_Laiza_P_BSIT32E1-\PREFINALS_AUTH_TORRALBA_LAIZA-P\AuthServer\obj\Debug\net8.0\AuthServer.AssemblyInfoInputs.cache
+C:\Users\Laiza\OneDrive\Documents\GitHub\PREFINALS_ASSIGNMENT1_-Torralba_Laiza_P_BSIT32E1-\PREFINALS_AUTH_TORRALBA_LAIZA-P\AuthServer\obj\Debug\net8.0\AuthServer.AssemblyInfo.cs
+C:\Users\Laiza\OneDrive\Documents\GitHub\PREFINALS_ASSIGNMENT1_-Torralba_Laiza_P_BSIT32E1-\PREFINALS_AUTH_TORRALBA_LAIZA-P\AuthServer\obj\Debug\net8.0\AuthServer.csproj.CoreCompileInputs.cache
+C:\Users\Laiza\OneDrive\Documents\GitHub\PREFINALS_ASSIGNMENT1_-Torralba_Laiza_P_BSIT32E1-\PREFINALS_AUTH_TORRALBA_LAIZA-P\AuthServer\obj\Debug\net8.0\AuthServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Laiza\OneDrive\Documents\GitHub\PREFINALS_ASSIGNMENT1_-Torralba_Laiza_P_BSIT32E1-\PREFINALS_AUTH_TORRALBA_LAIZA-P\AuthServer\obj\Debug\net8.0\AuthServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Laiza\OneDrive\Documents\GitHub\PREFINALS_ASSIGNMENT1_-Torralba_Laiza_P_BSIT32E1-\PREFINALS_AUTH_TORRALBA_LAIZA-P\AuthServer\obj\Debug\net8.0\AuthServer.RazorAssemblyInfo.cache
+C:\Users\Laiza\OneDrive\Documents\GitHub\PREFINALS_ASSIGNMENT1_-Torralba_Laiza_P_BSIT32E1-\PREFINALS_AUTH_TORRALBA_LAIZA-P\AuthServer\obj\Debug\net8.0\AuthServer.RazorAssemblyInfo.cs
+C:\Users\Laiza\OneDrive\Documents\GitHub\PREFINALS_ASSIGNMENT1_-Torralba_Laiza_P_BSIT32E1-\PREFINALS_AUTH_TORRALBA_LAIZA-P\AuthServer\obj\Debug\net8.0\AuthServer.sourcelink.json
