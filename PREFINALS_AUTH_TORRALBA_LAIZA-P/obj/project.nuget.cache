@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "kAcZWnbtHg7Dr0TZXJzbwskPpO1trIOURrSglg7kwwHOX5zesHM0j4KwRFVj8phD0V1pVl/ikv3a4QH/8MUb6w==",
+  "dgSpecHash": "0cksE8II47NgtvHfKxFbUgnAbwbHi0doAzFODr1z8EohJP4qk1khbxMGELlvlEB8Foe754vMGcYQoLFpvBBPyw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Laiza\\OneDrive\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_-Torralba_Laiza_P_BSIT32E1-\\PREFINALS_AUTH_TORRALBA_LAIZA-P\\PREFINALS_AUTH_TORRALBA_LAIZA-P.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Laiza\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.6\\microsoft.aspnetcore.authentication.jwtbearer.8.0.6.nupkg.sha512",
-    "C:\\Users\\Laiza\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.1.2\\microsoft.identitymodel.abstractions.7.1.2.nupkg.sha512",
+    "C:\\Users\\Laiza\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.6.2\\microsoft.identitymodel.abstractions.7.6.2.nupkg.sha512",
     "C:\\Users\\Laiza\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.1.2\\microsoft.identitymodel.jsonwebtokens.7.1.2.nupkg.sha512",
-    "C:\\Users\\Laiza\\.nuget\\packages\\microsoft.identitymodel.logging\\7.1.2\\microsoft.identitymodel.logging.7.1.2.nupkg.sha512",
+    "C:\\Users\\Laiza\\.nuget\\packages\\microsoft.identitymodel.logging\\7.6.2\\microsoft.identitymodel.logging.7.6.2.nupkg.sha512",
     "C:\\Users\\Laiza\\.nuget\\packages\\microsoft.identitymodel.protocols\\7.1.2\\microsoft.identitymodel.protocols.7.1.2.nupkg.sha512",
     "C:\\Users\\Laiza\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\7.1.2\\microsoft.identitymodel.protocols.openidconnect.7.1.2.nupkg.sha512",
-    "C:\\Users\\Laiza\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.1.2\\microsoft.identitymodel.tokens.7.1.2.nupkg.sha512",
+    "C:\\Users\\Laiza\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.6.2\\microsoft.identitymodel.tokens.7.6.2.nupkg.sha512",
     "C:\\Users\\Laiza\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.1.2\\system.identitymodel.tokens.jwt.7.1.2.nupkg.sha512"
   ],
   "logs": []
